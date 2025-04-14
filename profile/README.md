@@ -18,15 +18,15 @@ Thank you very much.
 |---------------|--------------------------------------------------------------|---------------------|---------|-------------|
 | Sparks        | Creation of characters and items.                            | OpenLore Builder    | Phase 1 | In progress |
 | Nexus         | Blockchain node for smart contracts.                         | Service             | Phase 2 | Pending     |
-| Epics         | Creation of game sessions.                                   | OpenLore Builder    | Phase 3 | Pending     |
-| GameMaster    | Management of game sessions.                                 | Standalone app      | Phase 4 | Pending     |
+| Epics         | Creation of adventures.                                      | OpenLore Builder    | Phase 3 | Pending     |
+| GameMaster    | Running of adventures.                                       | Standalone app      | Phase 4 | Pending     |
 
 ### Player
 
 | Component     | Description                                                  | Platform            | Phase   | Status      |
 |---------------|--------------------------------------------------------------|---------------------|---------|-------------|
-| Player        | Playing online game sessions (as a player).                  | Standalone app      | Phase 5 | Pending     |
-| Viewer        | Playback of game sessions.                                   | Standalone app      | Phase 6 | Pending     |
+| Player        | Playing online adventures (as a player).                     | Standalone app      | Phase 5 | Pending     |
+| Viewer        | Playback of adventures.                                      | Standalone app      | Phase 6 | Pending     |
 | Marketplace   | Buying and selling of crypto-assets.                         | Web                 | Phase 7 | Pending     |
 
 ### Metaverse
