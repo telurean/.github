@@ -25,7 +25,7 @@ Thank you very much.
 
 | Component     | Description                                                  | Platform            | Phase   | Status      |
 |---------------|--------------------------------------------------------------|---------------------|---------|-------------|
-| Player        | Playing online adventures (as a player).                     | Standalone app      | Phase 5 | Pending     |
+| Player        | Playing online adventures.                                   | Standalone app      | Phase 5 | Pending     |
 | Viewer        | Playback of adventures.                                      | Standalone app      | Phase 6 | Pending     |
 | Marketplace   | Buying and selling of crypto-assets.                         | Web                 | Phase 7 | Pending     |
 
