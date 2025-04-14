@@ -14,24 +14,24 @@ Thank you very much.
 
 ### GameMaster
 
-| Component     | Description                                                  | Platform            | Phase  |
-|---------------|--------------------------------------------------------------|---------------------|--------|
-| Sparks        | Creation of characters and items.                            | OpenLore Builder    | Phase 1 |
-| Nexus         | Blockchain node for smart contracts.                         | Service             | Phase 2 |
-| Epics         | Creation of game sessions.                                   | OpenLore Builder    | Phase 3 |
-| GameMaster    | Management of game sessions.                                 | Standalone app      | Phase 4 |
+| Component     | Description                                                  | Platform            | Phase   | Status      |
+|---------------|--------------------------------------------------------------|---------------------|---------|-------------|
+| Sparks        | Creation of characters and items.                            | OpenLore Builder    | Phase 1 | In progress |
+| Nexus         | Blockchain node for smart contracts.                         | Service             | Phase 2 | Pending     |
+| Epics         | Creation of game sessions.                                   | OpenLore Builder    | Phase 3 | Pending     |
+| GameMaster    | Management of game sessions.                                 | Standalone app      | Phase 4 | Pending     |
 
 ### Player
 
-| Component     | Description                                                  | Platform            | Phase  |
-|---------------|--------------------------------------------------------------|---------------------|--------|
-| Player        | Playing online game sessions (as a player).                  | Standalone app      | Phase 5 |
-| Viewer        | Playback of game sessions.                                   | Standalone app      | Phase 6 |
-| Marketplace   | Buying and selling of crypto-assets.                         | Web                 | Phase 7 |
+| Component     | Description                                                  | Platform            | Phase   | Status      |
+|---------------|--------------------------------------------------------------|---------------------|---------|-------------|
+| Player        | Playing online game sessions (as a player).                  | Standalone app      | Phase 5 | Pending     |
+| Viewer        | Playback of game sessions.                                   | Standalone app      | Phase 6 | Pending     |
+| Marketplace   | Buying and selling of crypto-assets.                         | Web                 | Phase 7 | Pending     |
 
 ### Metaverse
 
-| Component     | Description                                                  | Platform            | Phase  |
-|---------------|--------------------------------------------------------------|---------------------|--------|
-| MapMaker      | Creation of maps, both indoor and outdoor.                   | OpenLore Builder    | Phase 8 |
-| SimuRole      | Design of agent-based models for non-player characters.      | OpenLore Builder    | Phase 9 |
+| Component     | Description                                                  | Platform            | Phase   | Status      |
+|---------------|--------------------------------------------------------------|---------------------|---------|-------------|
+| MapMaker      | Creation of maps, both indoor and outdoor.                   | OpenLore Builder    | Phase 8 | Pending     |
+| SimuRole      | Design of agent-based models for non-player characters.      | OpenLore Builder    | Phase 9 | Pending     |
