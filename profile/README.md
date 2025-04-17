@@ -16,7 +16,7 @@ Thank you very much.
 
 | Component     | Description                                                    | Platform            | Phase     | Status      |
 |---------------|----------------------------------------------------------------|---------------------|-----------|-------------|
-| LoreFrame     | Framework for building OpenLore applications (Rust/Slint/DDD). | Library             | Phase 1.1 | In progress |
+| Vitral        | Framework for building OpenLore applications (Rust/Slint/DDD). | Library             | Phase 1.1 | In progress |
 | Sparks        | Creation of characters and items.                              | OpenLore Builder    | Phase 1.2 | In progress |
 | Nexus         | Blockchain node for smart contracts and advanced NFTs.         | Service             | Phase 2.1 | Pending     |
 | Cybernite     | Object mapping for NFTs on the blockchain (analogous to ORM).  | Library             | Phase 2.2 | Pending     |
