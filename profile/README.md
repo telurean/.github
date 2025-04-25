@@ -36,4 +36,4 @@ Thank you very much.
 | Component     | Description                                                  | Platform            | Phase   | Status      |
 |---------------|--------------------------------------------------------------|---------------------|---------|-------------|
 | MapMaker      | Creation of maps, both indoor and outdoor.                   | OpenLore Builder    | Phase 8 | Pending     |
-| SimuRole      | Design of agent-based models for non-player characters.      | OpenLore Builder    | Phase 9 | Pending     |
+| Ruler         | Design of agent-based models for non-player characters.      | OpenLore Builder    | Phase 9 | Pending     |
