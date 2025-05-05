@@ -16,10 +16,10 @@ Thank you very much.
 
 | Component     | Description                                                    | Platform            | Phase     | Status      |
 |---------------|----------------------------------------------------------------|---------------------|-----------|-------------|
-| Vitral        | Framework for building OpenLore applications (Rust/Slint/DDD). | Library             | Phase 1.1 | In progress |
-| Sparks        | Creation of characters and items.                              | OpenLore Builder    | Phase 1.2 | In progress |
-| Nexus         | Smart contracts deployed on the blockchain.                    | Blockchain          | Phase 2.1 | Pending     |
-| Cybernite     | Object mapping for NFTs on the blockchain (analogous to ORM).  | Library             | Phase 2.2 | Pending     |
+| Nexus         | Smart contracts deployed on the blockchain.                    | Blockchain          | Phase 1.1 | Pending     |
+| Cybernite     | Object mapping for NFTs on the blockchain (analogous to ORM).  | Library             | Phase 1.2 | Pending     |
+| Vitral        | Framework for building OpenLore applications (Rust/Slint/DDD). | Library             | Phase 2.1 | Pending     |
+| Sparks        | Creation of characters and items.                              | OpenLore Builder    | Phase 2.2 | Pending     |
 | Epics         | Creation of adventures.                                        | OpenLore Builder    | Phase 3   | Pending     |
 | GameMaster    | Running of adventures.                                         | Standalone app      | Phase 4   | Pending     |
 
@@ -27,9 +27,9 @@ Thank you very much.
 
 | Component     | Description                                                  | Platform            | Phase   | Status      |
 |---------------|--------------------------------------------------------------|---------------------|---------|-------------|
-| Player        | Playing online adventures.                                   | Standalone app      | Phase 5 | Pending     |
-| Viewer        | Playback of adventures.                                      | Standalone app      | Phase 6 | Pending     |
-| Marketplace   | Buying and selling of crypto-assets.                         | Web                 | Phase 7 | Pending     |
+| Marketplace   | Buying and selling of crypto-assets.                         | Web                 | Phase 5 | Pending     |
+| Player        | Playing online adventures.                                   | Standalone app      | Phase 6 | Pending     |
+| Viewer        | Playback of adventures.                                      | Standalone app      | Phase 7 | Pending     |
 
 ### Metaverse
 
