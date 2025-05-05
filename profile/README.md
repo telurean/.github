@@ -16,7 +16,7 @@ Thank you very much.
 
 | Component     | Description                                                    | Platform            | Phase     | Status      |
 |---------------|----------------------------------------------------------------|---------------------|-----------|-------------|
-| Nexus         | Smart contracts deployed on the blockchain.                    | Blockchain          | Phase 1.1 | Pending     |
+| Nexus         | Smart contracts deployed on the blockchain.                    | Blockchain          | Phase 1.1 | In progress |
 | Cybernite     | Object mapping for NFTs on the blockchain (analogous to ORM).  | Library             | Phase 1.2 | Pending     |
 | Vitral        | Framework for building OpenLore applications (Rust/Slint/DDD). | Library             | Phase 2.1 | Pending     |
 | Sparks        | Creation of characters and items.                              | OpenLore Builder    | Phase 2.2 | Pending     |
