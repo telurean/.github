@@ -18,7 +18,7 @@ Thank you very much.
 |---------------|----------------------------------------------------------------|---------------------|-----------|-------------|
 | Nexus         | Smart contracts deployed on the blockchain.                    | Blockchain          | Phase 1.1 | In progress |
 | Cybernite     | Object mapping for NFTs on the blockchain (analogous to ORM).  | Library             | Phase 1.2 | Pending     |
-| Marketplace   | Creation, buying and selling of crypto-assets.                 | Web                 | Phase 1.3 | Pending     |
+| OpenLore web  | Creation, buying and selling of crypto-assets.                 | Web                 | Phase 1.3 | Pending     |
 
 ### GameMaster
 
