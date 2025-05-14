@@ -12,22 +12,27 @@ Thank you very much.
 
 ## Roadmap
 
-### GameMaster
+### MVP
 
 | Component     | Description                                                    | Platform            | Phase     | Status      |
 |---------------|----------------------------------------------------------------|---------------------|-----------|-------------|
 | Nexus         | Smart contracts deployed on the blockchain.                    | Blockchain          | Phase 1.1 | In progress |
 | Cybernite     | Object mapping for NFTs on the blockchain (analogous to ORM).  | Library             | Phase 1.2 | Pending     |
-| Vitral        | Framework for building OpenLore applications (Rust/Slint/DDD). | Library             | Phase 2.1 | Pending     |
-| Sparks        | Creation of characters and items.                              | OpenLore Builder    | Phase 2.2 | Pending     |
-| Epics         | Creation of adventures.                                        | OpenLore Builder    | Phase 3   | Pending     |
-| GameMaster    | Running of adventures.                                         | Standalone app      | Phase 4   | Pending     |
+| Marketplace   | Creation, buying and selling of crypto-assets.                 | Web                 | Phase 1.3 | Pending     |
+
+### GameMaster
+
+| Component     | Description                                                    | Platform            | Phase     | Status      |
+|---------------|----------------------------------------------------------------|---------------------|-----------|-------------|
+| Vitral        | Framework for building OpenLore applications (Rust/Slint/DDD). | Library             | Phase 2   | Pending     |
+| Sparks        | Creation of characters and items.                              | OpenLore Builder    | Phase 3   | Pending     |
+| Epics         | Creation of adventures.                                        | OpenLore Builder    | Phase 4   | Pending     |
+| GameMaster    | Running of adventures.                                         | Standalone app      | Phase 5   | Pending     |
 
 ### Player
 
 | Component     | Description                                                  | Platform            | Phase   | Status      |
 |---------------|--------------------------------------------------------------|---------------------|---------|-------------|
-| Marketplace   | Buying and selling of crypto-assets.                         | Web                 | Phase 5 | Pending     |
 | Player        | Playing online adventures.                                   | Standalone app      | Phase 6 | Pending     |
 | Viewer        | Playback of adventures.                                      | Standalone app      | Phase 7 | Pending     |
 
