@@ -17,7 +17,7 @@ Thank you very much.
 | Component     | Description                                                    | Platform            | Phase     | Status      |
 |---------------|----------------------------------------------------------------|---------------------|-----------|-------------|
 | [Sparks](https://github.com/openlorenet/sparks)        | Creation of characters and items.                              | OpenLore Builder    | Phase 1.1 | In progress |
-| Nexuum        | Substrate-based blockchain node                                | Blockchain          | Phase 1.2 | Pending     |
+| Nexuum        | Substrate-based blockchain node.                               | Blockchain          | Phase 1.2 | Pending     |
 
 ### GameMaster
 
