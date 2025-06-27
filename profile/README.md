@@ -16,8 +16,8 @@ Thank you very much.
 
 | Component     | Description                                                    | Platform            | Phase     | Status      |
 |---------------|----------------------------------------------------------------|---------------------|-----------|-------------|
-| Nexus         | Smart contracts deployed on the blockchain.                    | Blockchain          | Phase 1.1 | In progress |
-| OpenLore web  | Creation, buying and selling of crypto-assets.                 | Web                 | Phase 1.2 | Pending     |
+| [Sparks](https://github.com/openlorenet/sparks)        | Creation of characters and items.                              | OpenLore Builder    | Phase 1.1 | In progress |
+| Nexuum        | Substrate-based blockchain node                                | Blockchain          | Phase 1.2 | Pending     |
 
 ### GameMaster
 
@@ -25,16 +25,16 @@ Thank you very much.
 |---------------|----------------------------------------------------------------|---------------------|---------|-------------|
 | Cybernite     | Object mapping for NFTs on the blockchain (analogous to ORM).  | Library             | Phase 2 | Pending     |
 | Vitral        | Framework for building OpenLore applications (Rust/Slint/DDD). | Library             | Phase 3 | Pending     |
-| Sparks        | Creation of characters and items.                              | OpenLore Builder    | Phase 4 | Pending     |
-| Epics         | Creation of adventures.                                        | OpenLore Builder    | Phase 5 | Pending     |
-| GameMaster    | Running of adventures.                                         | Standalone app      | Phase 6 | Pending     |
+| Epics         | Creation of adventures.                                        | OpenLore Builder    | Phase 4 | Pending     |
+| GameMaster    | Running of adventures.                                         | Standalone app      | Phase 5 | Pending     |
 
 ### Player
 
 | Component     | Description                                                  | Platform            | Phase   | Status      |
 |---------------|--------------------------------------------------------------|---------------------|---------|-------------|
-| Player        | Playing online adventures.                                   | Standalone app      | Phase 7 | Pending     |
-| Viewer        | Playback of adventures.                                      | Standalone app      | Phase 8 | Pending     |
+| Player        | Playing online adventures.                                   | Standalone app      | Phase 6 | Pending     |
+| Viewer        | Playback of adventures.                                      | Standalone app      | Phase 7 | Pending     |
+| OpenLore web  | Creation, buying and selling of crypto-assets.               | Web                 | Phase 8 | Pending     |
 
 ### Metaverse
 
