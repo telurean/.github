@@ -1,6 +1,6 @@
 ![OpenLore Banner](../images/banner.png)
 
-## Crafting a Future for Traditional Tabletop RPG Assets
+## Crafting a Future for traditional tabletop RPG assets
 
 OpenLore aims to bring new possibilities to traditional tabletop role-playing games by turning their core elements—characters, items, stories, and worlds—into reusable and tradable crypto-assets. Using the Substrate framework, OpenLore hopes to let these virtual assets live beyond their original tabletop sessions, adding to a growing, shared fantasy lore. The project is under development, with plans for open-source, freely available decentralized applications built in Rust and Slint for Windows, Linux, and Mac to create and manage these assets. A separate, commercial web-based marketplace is also planned to support trading, connecting tabletop RPG elements in a digital space.
 
