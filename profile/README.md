@@ -30,11 +30,11 @@ Thank you very much.
 
 ### Player
 
-| Component     | Description                                                  | Platform            | Phase   | Status      |
-|---------------|--------------------------------------------------------------|---------------------|---------|-------------|
-| Player        | Playing online adventures.                                   | Standalone app      | Phase 6 | Pending     |
-| Viewer        | Playback of adventures.                                      | Standalone app      | Phase 7 | Pending     |
-| OpenLore web  | Creation, buying and selling of crypto-assets.               | Web                 | Phase 8 | Pending     |
+| Component  | Description                                                  | Platform            | Phase   | Status      |
+|------------|--------------------------------------------------------------|---------------------|---------|-------------|
+| Player     | Playing online adventures.                                   | Standalone app      | Phase 6 | Pending     |
+| Viewer     | Playback of adventures.                                      | Standalone app      | Phase 7 | Pending     |
+| Web        | Creation, buying and selling of crypto-assets.               | Web                 | Phase 8 | Pending     |
 
 ### Metaverse
 
