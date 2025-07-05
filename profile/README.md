@@ -10,8 +10,8 @@ Telurean aims to bring new possibilities to traditional tabletop role-playing ga
 
 | Component     | Description                                                    | Platform            | Phase     | Status      |
 |---------------|----------------------------------------------------------------|---------------------|-----------|-------------|
-| Node          | Substrate-based blockchain node.                               | Blockchain          | Phase 1.1 | In progress |
-| [Sparks](https://github.com/openlorenet/sparks)        | Creation of characters and items.                              | OpenLore Builder    | Phase 1.2 | Pending     |
+| [Node](https://github.com/telurean/node)          | Substrate-based blockchain node.                               | Blockchain          | Phase 1.1 | In progress |
+| [Sparks](https://github.com/telurean/sparks)        | Creation of characters and items.                              | OpenLore Builder    | Phase 1.2 | In progress |
 
 ### GameMaster
 
