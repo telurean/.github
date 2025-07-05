@@ -6,12 +6,11 @@ Telurean aims to bring new possibilities to traditional tabletop role-playing ga
 
 ## Roadmap
 
-### MVP
+### Blockchain
 
 | Component     | Description                                                    | Platform            | Phase     | Status      |
 |---------------|----------------------------------------------------------------|---------------------|-----------|-------------|
 | [Node](https://github.com/telurean/node)          | Substrate-based blockchain node.                               | Blockchain          | Phase 1.1 | In progress |
-| [Sparks](https://github.com/telurean/sparks)        | Creation of characters and items.                              | OpenLore Builder    | Phase 1.2 | In progress |
 
 ### GameMaster
 
@@ -19,6 +18,7 @@ Telurean aims to bring new possibilities to traditional tabletop role-playing ga
 |---------------|----------------------------------------------------------------|---------------------|---------|-------------|
 | Cybernite     | Object mapping for NFTs on the blockchain (analogous to ORM).  | Library             | Phase 2 | Pending     |
 | Vitral        | Framework for building OpenLore applications (Rust/Slint/DDD). | Library             | Phase 3 | Pending     |
+| Sparks        | Creation of characters and items.                              | OpenLore Builder    | Phase 1.2 | In progress |
 | Epics         | Creation of adventures.                                        | OpenLore Builder    | Phase 4 | Pending     |
 | GameMaster    | Running of adventures.                                         | Standalone app      | Phase 5 | Pending     |
 
