@@ -23,8 +23,8 @@ Telurean aims to bring new possibilities to traditional tabletop role-playing ga
 
 | Repository          | Description                                | Component           | Phase   | Status      |
 |---------------------|--------------------------------------------|---------------------|---------|-------------|
-| telurean-sparks     | Creation of characters and items.          | OpenLore Builder    | Phase 4 | Pending     |
-| telurean-epics      | Creation of adventures.                    | OpenLore Builder    | Phase 5 | Pending     |
+| telurean-sparks     | Creation of characters and items.          | Telurean Builder    | Phase 4 | Pending     |
+| telurean-epics      | Creation of adventures.                    | Telurean Builder    | Phase 5 | Pending     |
 | telurean-gamemaster | Running of adventures.                     | Standalone app      | Phase 6 | Pending     |
 
 ### Player
@@ -38,5 +38,5 @@ Telurean aims to bring new possibilities to traditional tabletop role-playing ga
 
 | Repository        | Description                                                  | Component           | Phase    | Status      |
 |-------------------|--------------------------------------------------------------|---------------------|----------|-------------|
-| telurean-mapmaker | Creation of maps, both indoor and outdoor.                   | OpenLore Builder    | Phase 9  | Pending     |
-| telurean-ruler    | Design of agent-based models for non-player characters.      | OpenLore Builder    | Phase 10 | Pending     |
+| telurean-mapmaker | Creation of maps, both indoor and outdoor.                   | Telurean Builder    | Phase 9  | Pending     |
+| telurean-ruler    | Design of agent-based models for non-player characters.      | Telurean Builder    | Phase 10 | Pending     |
