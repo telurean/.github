@@ -8,14 +8,13 @@ Telurean aims to bring new possibilities to traditional tabletop role-playing ga
 
 ### Blockchain
 
-| Component      | Description                                                    | Platform            | Phase     | Status      |
+| Repository     | Description                                                    | Component           | Phase     | Status      |
 |----------------|----------------------------------------------------------------|---------------------|-----------|-------------|
-| telurean-chain | Substrate-based blockchain node.                               | Blockchain          | Phase 1 | In progress |
 | [telurean-chain](https://github.com/telurean/telurean-chain) | Substrate-based blockchain node.                               | Blockchain          | Phase 1 | In progress |
 
 ### GameMaster
 
-| Component           | Description                                                    | Platform            | Phase   | Status      |
+| Repository          | Description                                                    | Component           | Phase   | Status      |
 |---------------------|----------------------------------------------------------------|---------------------|---------|-------------|
 | cybernite           | Object mapping for NFTs on the blockchain (analogous to ORM).  | Library             | Phase 2 | Pending     |
 | vitral              | Framework for building OpenLore applications (Rust/Slint/DDD). | Library             | Phase 3 | Pending     |
@@ -25,14 +24,14 @@ Telurean aims to bring new possibilities to traditional tabletop role-playing ga
 
 ### Player
 
-| Component       | Description                                                  | Platform            | Phase   | Status      |
+| Repository      | Description                                                  | Component           | Phase   | Status      |
 |-----------------|--------------------------------------------------------------|---------------------|---------|-------------|
 | telurean-player | Playing online and playback of adventures.                   | Standalone app      | Phase 7 | Pending     |
 | telurean-web    | Creation, buying and selling of crypto-assets.               | Web                 | Phase 8 | Pending     |
 
 ### Metaverse
 
-| Component         | Description                                                  | Platform            | Phase    | Status      |
+| Repository        | Description                                                  | Component           | Phase    | Status      |
 |-------------------|--------------------------------------------------------------|---------------------|----------|-------------|
 | telurean-mapmaker | Creation of maps, both indoor and outdoor.                   | OpenLore Builder    | Phase 9  | Pending     |
 | telurean-ruler    | Design of agent-based models for non-player characters.      | OpenLore Builder    | Phase 10 | Pending     |
