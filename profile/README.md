@@ -14,13 +14,13 @@ Telurean aims to bring new possibilities to traditional tabletop role-playing ga
 
 ### GameMaster
 
-| Repository          | Description                                                    | Component           | Phase   | Status      |
-|---------------------|----------------------------------------------------------------|---------------------|---------|-------------|
-| cybernite           | Object mapping for NFTs on the blockchain (analogous to ORM).  | Library             | Phase 2 | Pending     |
-| vitral              | Framework for building OpenLore applications (Rust/Slint/DDD). | Library             | Phase 3 | Pending     |
-| telurean-sparks     | Creation of characters and items.                              | OpenLore Builder    | Phase 4 | Pending     |
-| telurean-epics      | Creation of adventures.                                        | OpenLore Builder    | Phase 5 | Pending     |
-| telurean-gamemaster | Running of adventures.                                         | Standalone app      | Phase 6 | Pending     |
+| Repository          | Description                                | Component           | Phase   | Status      |
+|---------------------|--------------------------------------------|---------------------|---------|-------------|
+| cybernite           | Object mapping for NFTs on the blockchain. | Library             | Phase 2 | Pending     |
+| vitral              | Framework for building applications.       | Library             | Phase 3 | Pending     |
+| telurean-sparks     | Creation of characters and items.          | OpenLore Builder    | Phase 4 | Pending     |
+| telurean-epics      | Creation of adventures.                    | OpenLore Builder    | Phase 5 | Pending     |
+| telurean-gamemaster | Running of adventures.                     | Standalone app      | Phase 6 | Pending     |
 
 ### Player
 
