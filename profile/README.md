@@ -12,12 +12,17 @@ Telurean aims to bring new possibilities to traditional tabletop role-playing ga
 |----------------|----------------------------------------------------------------|---------------------|-----------|-------------|
 | [telurean-chain](https://github.com/telurean/telurean-chain) | Substrate-based node of Telurean Network.                               | Blockchain          | Phase 1 | In progress |
 
+### Libraries
+
+| Repository | Description                                | Component           | Phase   | Status      |
+|------------|--------------------------------------------|---------------------|---------|-------------|
+| cybernite  | Object mapping for NFTs on the blockchain. | Library             | Phase 2 | Pending     |
+| vitral     | Framework for building applications.       | Library             | Phase 3 | Pending     |
+
 ### GameMaster
 
 | Repository          | Description                                | Component           | Phase   | Status      |
 |---------------------|--------------------------------------------|---------------------|---------|-------------|
-| cybernite           | Object mapping for NFTs on the blockchain. | Library             | Phase 2 | Pending     |
-| vitral              | Framework for building applications.       | Library             | Phase 3 | Pending     |
 | telurean-sparks     | Creation of characters and items.          | OpenLore Builder    | Phase 4 | Pending     |
 | telurean-epics      | Creation of adventures.                    | OpenLore Builder    | Phase 5 | Pending     |
 | telurean-gamemaster | Running of adventures.                     | Standalone app      | Phase 6 | Pending     |
