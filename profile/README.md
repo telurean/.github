@@ -10,7 +10,7 @@ Telurean aims to bring new possibilities to traditional tabletop role-playing ga
 
 | Repository     | Description                                                    | Component           | Phase     | Status      |
 |----------------|----------------------------------------------------------------|---------------------|-----------|-------------|
-| [telurean-chain](https://github.com/telurean/telurean-chain) | Substrate-based node of Telurean Network.                               | Blockchain          | Phase 1 | In progress |
+| [telurean-chain](https://github.com/telurean/telurean-chain) | Substrate-based node of Telurean Network.                               | Blockchain          | Phase 1 | <span style="color: yellow;">In progress</span> |
 
 ### Libraries
 
