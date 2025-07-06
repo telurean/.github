@@ -17,7 +17,7 @@ Telurean aims to bring new possibilities to traditional tabletop role-playing ga
 | Repository | Description                                | Component           | Phase   | Status      |
 |------------|--------------------------------------------|---------------------|---------|-------------|
 | cybernite  | Object mapping for NFTs on the blockchain. | Library             | Phase 2 | Pending     |
-| vitral     | Framework for building applications.       | Library             | Phase 3 | Pending     |
+| vitral     | Framework for building applications (DDD). | Library             | Phase 3 | Pending     |
 
 ### GameMaster
 
