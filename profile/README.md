@@ -32,7 +32,7 @@ Telurean aims to bring new possibilities to traditional tabletop role-playing ga
 | Repository      | Description                                                  | Component           | Phase   | Status      |
 |-----------------|--------------------------------------------------------------|---------------------|---------|-------------|
 | telurean-player | Playing online and playback of adventures.                   | Standalone app      | Phase 7 | Pending     |
-| telurean-web    | Creation, buying and selling of crypto-assets.               | Web                 | Phase 8 | Pending     |
+| telurean-market | Creation, buying and selling of crypto-assets.               | Web                 | Phase 8 | Pending     |
 
 ### Metaverse
 
