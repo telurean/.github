@@ -36,8 +36,8 @@ Players will not only create and control their assets but also contribute to a l
 
 | Repository | Description                                | Component           | Phase   | Status      |
 |------------|--------------------------------------------|---------------------|---------|-------------|
-| cybernite  | Object mapping for NFTs on the blockchain. | Library             | Phase 2 | Pending     |
-| vitral     | Framework for building applications (DDD). | Library             | Phase 3 | Pending     |
+| cybernite  | Object mapping for NFTs on the blockchain and domain classes.     | Library             | Phase 2 | Pending     |
+| vitral     | UI framework based on WPF/MVVM for building desktop applications. | Library             | Phase 3 | Pending     |
 
 ### GameMaster
 
