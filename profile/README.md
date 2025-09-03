@@ -28,35 +28,35 @@ Players will not only create and control their assets but also contribute to a l
 
 ### Blockchain
 
-| Repository     | Description                                                    | Component           | Phase     | Status      |
-|----------------|----------------------------------------------------------------|---------------------|-----------|-------------|
-| [telurean-chain](https://github.com/telurean/telurean-chain) | Substrate-based node of Telurean Network.                               | Blockchain          | Phase 1 | _In progress_ |
+| Repository     | Description                                                    | Component           | Status      |
+|----------------|----------------------------------------------------------------|---------------------|-------------|
+| [telurean-chain](https://github.com/telurean/telurean-chain) | Substrate-based node of Telurean Network.                               | Blockchain          | _In progress_ |
 
 ### Libraries
 
-| Repository | Description                                | Component           | Phase   | Status      |
-|------------|--------------------------------------------|---------------------|---------|-------------|
-| [cybernite](https://github.com/telurean/cybernite)  | Object mapping for NFTs and domain classes.           | Library             | Phase 2 | _In progress_ |
-| vitral     | WPF/MVVM framework for building desktop applications. | Library             | Phase 3 | Pending       |
+| Repository | Description                                | Component           | Status      |
+|------------|--------------------------------------------|---------------------|-------------|
+| [cybernite](https://github.com/telurean/cybernite)  | Object mapping for NFTs and domain classes.           | Library             | _In progress_ |
+| vitral     | WPF/MVVM framework for building desktop applications. | Library             | Pending       |
 
 ### GameMaster
 
-| Repository          | Description                                | Component           | Phase   | Status      |
-|---------------------|--------------------------------------------|---------------------|---------|-------------|
-| telurean-sparks     | Creation of characters and items.          | Telurean Builder    | Phase 4 | Pending     |
-| telurean-epics      | Creation of adventures.                    | Telurean Builder    | Phase 5 | Pending     |
-| telurean-gamemaster | Running of adventures.                     | Standalone app      | Phase 6 | Pending     |
+| Repository          | Description                                | Component           | Status      |
+|---------------------|--------------------------------------------|---------------------|-------------|
+| telurean-sparks     | Creation of characters and items.          | Telurean Builder    | Pending     |
+| telurean-epics      | Creation of adventures.                    | Telurean Builder    | Pending     |
+| telurean-gamemaster | Running of adventures.                     | Standalone app      | Pending     |
 
 ### Player
 
-| Repository      | Description                                                  | Component           | Phase   | Status      |
-|-----------------|--------------------------------------------------------------|---------------------|---------|-------------|
-| telurean-player | Playing online and playback of adventures.                   | Standalone app      | Phase 7 | Pending     |
-| telurean-market | Creation, buying and selling of crypto-assets.               | Web                 | Phase 8 | Pending     |
+| Repository      | Description                                                  | Component           | Status      |
+|-----------------|--------------------------------------------------------------|---------------------|-------------|
+| telurean-player | Playing online and playback of adventures.                   | Standalone app      | Pending     |
+| telurean-market | Creation, buying and selling of crypto-assets.               | Web                 | Pending     |
 
 ### Metaverse
 
-| Repository        | Description                                                  | Component           | Phase    | Status      |
-|-------------------|--------------------------------------------------------------|---------------------|----------|-------------|
-| telurean-mapmaker | Creation of maps, both indoor and outdoor.                   | Telurean Builder    | Phase 9  | Pending     |
-| telurean-ruler    | Design of agent-based models for non-player characters.      | Telurean Builder    | Phase 10 | Pending     |
+| Repository        | Description                                                  | Component           | Status      |
+|-------------------|--------------------------------------------------------------|---------------------|-------------|
+| telurean-mapmaker | Creation of maps, both indoor and outdoor.                   | Telurean Builder    | Pending     |
+| telurean-ruler    | Design of agent-based models for non-player characters.      | Telurean Builder    | Pending     |
